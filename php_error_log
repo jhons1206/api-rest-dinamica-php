@@ -1,0 +1,6 @@
+[18-Jul-2023 07:03:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in C:\xampp\htdocs\apirest-dinamica\routes\routes.php:30
+Stack trace:
+#0 C:\xampp\htdocs\apirest-dinamica\controllers\routes.controller.php(7): include()
+#1 C:\xampp\htdocs\apirest-dinamica\index.php(11): RoutesController->index()
+#2 {main}
+  thrown in C:\xampp\htdocs\apirest-dinamica\routes\routes.php on line 30
